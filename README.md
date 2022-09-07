@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Faiz</h1>
-<h3 align="center">An amateur</h3>
+<h3 align="center"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faizmuiz&label=Profile%20views&color=0e75b6&style=flat" alt="faizmuiz" /> </p>
 
