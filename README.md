@@ -32,6 +32,6 @@ Currently learning more about backend!
 
 ## 📫 Connect with me
 
-- ✉️ Email: faizmuizzu[at]gmail.com  
+- ✉️ Email: faizmuizzu@gmail.com  
 - 💼 LinkedIn: [linkedin.com/in/faizmuizzudin](https://linkedin.com/in/faizmuizzudin)
 
