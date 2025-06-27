@@ -1,10 +1,3 @@
-<div align="center">
-  <img  src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/readme/resources/img/grid-snake.svg"
-       alt="snake" />
-</div>
-
-![Header](./faizmzs.gif)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=progsmatic&label=Profile%20views&color=0e75b6&style=flat" alt="progsmatic" /> </p>
 
 - 🔭 I’m currently studying on **Earth**
