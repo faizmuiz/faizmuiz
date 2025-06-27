@@ -2,8 +2,8 @@
 
 # 👋 Hi there, I'm Faiz!
 
-I'm a backend developer and tech enthusiast from Indonesia 🇮🇩  
-Currently learning more about scalable systems, clean architecture, and QA workflows.
+I'm a backend developer and tech enthusiast
+Currently learning more about backend!
 
 ---
 
