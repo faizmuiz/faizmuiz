@@ -11,7 +11,7 @@ Currently learning more about scalable systems, clean architecture, and QA workf
 
 - 🧠 Backend: Express.js
 - 🌐 Frontend (learning): Nuxt.js, TailwindCSS
-- 📦 Tools: Postman, Git, GitHub
+- 📦 Tools: VS Code, Postman, Git (GitHub, GitBash, GitLab)
 
 ---
 
