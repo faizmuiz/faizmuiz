@@ -18,7 +18,7 @@ Currently learning more about backend!
 ## 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizmuiz&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizmuiz&layout=compact&theme=algolia" alt="Top Languages" />
 </p>
 
 ---
